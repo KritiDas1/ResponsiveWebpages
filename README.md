@@ -1,2 +1,4 @@
 # ResponsiveWebpages
-https://kritidas1.github.io/apple/
+Apple ecommerce demo: https://kritidas1.github.io/apple/
+Architect website demo: https://kritidas1.github.io/Architect/
+
